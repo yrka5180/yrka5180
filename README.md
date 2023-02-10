@@ -1,8 +1,6 @@
 <div align="center"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=80B0C8&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+yrka)](https://git.io/typing-svg)
-
- <h3 align="center">不要尝试做你喜欢的事, 要去喜欢你正在做的事。</h3>
  
 ![Code Time](http://img.shields.io/badge/Code%20Time-%20123hrs%2040%20mins-blue)
 ![Left To Retire](https://img.shields.io/badge/left%20to%20retire-29208%20hrs-blue)
