@@ -7,7 +7,7 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-%20123hrs%2040%20mins-blue)
 ![Left To Retire](https://img.shields.io/badge/left%20to%20retire-29208%20hrs-blue)
  
-[![](https://img.shields.io/badge/-Blog-brightgreen?style=flat&logo=Blogger&logoColor=white)](https://www.yrka.com)
+[![](https://img.shields.io/badge/-Blog-brightgreen?style=flat&logo=Blogger&logoColor=white)](https://www.yrka.me)
 [![](https://img.shields.io/badge/-Email-red?style=flat&logo=Mail.Ru&logoColor=white)](mailto:zzyyds777@gmail.com)
 [![](https://img.shields.io/badge/-Bilibili-blue?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/6974719)
 
